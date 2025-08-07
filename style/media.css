@@ -1,17 +1,17 @@
-@media (min-width: 300px) and (max-width: 765px) {
-}
-
 @media (max-width: 1280px) {
+  .gap-270 {
+    gap: 100px;
+  }
   .max-w-560 {
     max-width: 480px;
   }
   .text-54 {
-    font-size: 48px;
+    font-size: 44px;
   }
   .py-24 {
     padding: 16px 0px;
   }
-  .pl-12 {
+  .pl-100 {
     padding-left: 40px;
   }
   .px-10 {
@@ -33,10 +33,28 @@
     margin-bottom: 5px;
   }
   .p-110-125 {
-    padding: 80px 80px 95px 80px;
+    padding: 80px 50px 95px 50px;
   }
   .gap-75 {
-    gap: 60px;
+    gap: 40px;
+  }
+  .mb-100 {
+    margin-bottom: 70px;
+  }
+  .mt-150 {
+    margin-top: 100px;
+  }
+  .mb-60 {
+    margin-bottom: 50px;
+  }
+  .p-155-70-100-90 {
+    padding: 100px 40px 70px 40px;
+  }
+  .gap-50 {
+    gap: 40px;
+  }
+  .max-w-70 {
+    max-width: 50px;
   }
 }
 @media (max-width: 1024px) {
@@ -46,7 +64,7 @@
   .text-54 {
     font-size: 40px;
   }
-  .pl-12 {
+  .pl-100 {
     padding-left: 32px;
   }
   .text-xl {
@@ -79,8 +97,29 @@
   .justify-between {
     justify-content: center;
   }
+  .mb-100 {
+    margin-bottom: 50px;
+  }
+  .gap-270 {
+    gap: 50px;
+  }
+  .gap-24 {
+    gap: 18px;
+  }
+  .mt-30 {
+    margin-top: 15px;
+  }
+  .mt-20 {
+    margin-top: 20px;
+  }
+  .mt-150 {
+    margin-top: 70px;
+  }
+  .p-155-70-100-90 {
+    padding: 80px 40px 70px 40px;
+  }
 }
-@media (max-width: 765px) {
+@media (max-width: 768px) {
   .max-w-560 {
     max-width: 300px;
   }
@@ -90,7 +129,7 @@
   .max-w-200 {
     max-width: 140px;
   }
-  .pl-12 {
+  .pl-100 {
     padding-left: 0px;
   }
   .px-4 {
@@ -103,7 +142,7 @@
     padding: 15px 16px;
   }
   .py-24 {
-    padding: 8px 0px;
+    padding: 10px 0px;
   }
   .text-xl {
     font-size: 14px;
@@ -126,6 +165,54 @@
   .mt-24 {
     margin-top: 10px;
   }
+  .w-full-2 {
+    width: 100%;
+  }
+  .p-110-125 {
+    padding: 30px 20px 30px 20px;
+  }
+  .px-24 {
+    padding: 0px 16px;
+  }
+  .mb-100 {
+    margin-bottom: 44px;
+  }
+  .max-w-70 {
+    max-width: 30px;
+  }
+  .text-start-res {
+    text-align: center;
+  }
+  .mx-auto-res {
+    margin: auto;
+  }
+  .d-flex-res {
+    display: flex;
+  }
+  .px-10 {
+    padding: 0px 16px;
+  }
+  .max-w-400 {
+    max-width: 100%;
+  }
+  .gap-24 {
+    gap: 15px;
+  }
+  .mt-150 {
+    margin-top: 50px;
+  }
+  .mb-60 {
+    margin-bottom: 30;
+  }
+  .p-155-70-100-90 {
+    padding: 30px 20px 30px 20px;
+  }
+  .mt-32 {
+    margin-top: 20px;
+  }
 }
-@media (max-width: 300px) {
+@media (max-width: 640px) {
+  .d-flex-r {
+    flex-direction: column;
+  }
 }
