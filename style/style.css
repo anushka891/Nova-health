@@ -1,0 +1,193 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Plus Jakarta Sans";
+  box-sizing: border-box;
+  max-width: 1440px;
+  margin: auto;
+}
+.bg-blue-img {
+  background-image: url("/assests/png/hero-bg-img.png");
+}
+.bg-cover {
+  background-size: cover;
+}
+.h-full {
+  height: 100%;
+}
+.w-full,
+.w-full-2 {
+  width: 100%;
+}
+.d-flex,
+.d-flex-2 {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.items-center {
+  align-items: center;
+}
+.text-center {
+  text-align: center;
+}
+.mx-auto {
+  margin: auto;
+}
+.m-0 {
+  margin: 0px;
+}
+.p-0 {
+  padding: 0px;
+}
+.font-normal {
+  font-weight: 400;
+}
+.font-medium {
+  font-weight: 500;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-extrabold {
+  font-weight: 800;
+}
+.text-xs {
+  font-size: 12px;
+}
+.text-sm {
+  font-size: 14px;
+}
+.text-base {
+  font-size: 16px;
+}
+.text-lg {
+  font-size: 18px;
+}
+.text-xl {
+  font-size: 20px;
+}
+.text-2xl {
+  font-size: 24px;
+}
+.text-54 {
+  font-size: 54px;
+}
+.leading-120 {
+  line-height: 120%;
+}
+.leading-160 {
+  line-height: 160%;
+}
+.max-w-530 {
+  max-width: 530px;
+}
+.py-24 {
+  padding: 24px 0px;
+}
+.text-gray {
+  color: #7e8599;
+}
+.bg-primary {
+  background-color: #0f67fe;
+}
+.text-white {
+  color: white;
+}
+.py-16-32 {
+  padding: 16px 32px;
+}
+.rounded-12 {
+  border-radius: 12px;
+}
+.border-primary {
+  border: #0f67fe 1px solid;
+}
+.max-w-1440 {
+  max-width: 1440px;
+}
+.max-w-570 {
+  max-width: 570px;
+}
+.px-10 {
+  padding: 0px 40px;
+}
+.max-h-630 {
+  max-height: 630px;
+}
+.pt-12 {
+  padding-top: 50px;
+}
+.pl-12 {
+  padding-left: 50px;
+}
+.gap-24 {
+  gap: 24px;
+}
+.max-w-200 {
+  max-width: 200px;
+}
+.bg-position-top {
+  background-position: top;
+}
+.p-110-125 {
+  padding: 110px 110px 125px 110px;
+}
+.rounded-24 {
+  border-radius: 24px;
+}
+.px-16 {
+  padding: 0px 16px;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.bg-absolute-img {
+  background-image: url("/assests/png/white-gradient-absolute.png");
+}
+.max-h-300 {
+  max-height: 300px;
+}
+.bottom-0 {
+  bottom: 0px;
+}
+.z-10 {
+  z-index: 10;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.mb-100 {
+  margin-bottom: 100px;
+}
+.text-28 {
+  font-size: 28px;
+}
+.max-w-100 {
+  max-width: 100px;
+}
+.mt-24 {
+  margin-top: 24px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.gap-75 {
+  gap: 75px;
+}
+.px-24 {
+  padding: 0px 24px;
+}
