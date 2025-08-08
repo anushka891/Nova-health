@@ -257,3 +257,41 @@ body {
 .inter {
   font-family: "Inter", sans-serif;
 }
+.w-fit {
+  width: fit-content;
+}
+.no-underline {
+  text-decoration: none;
+}
+.max-w-630 {
+  max-width: 630px;
+}
+.bg-sky {
+  background-color: #f2f5f9;
+}
+.text-gray-dark,
+input::placeholder,
+textarea::placeholder {
+  color: #a5a5a5;
+}
+.outline-none {
+  outline: none;
+}
+.border-0 {
+  border: 0px;
+}
+.rounded-8 {
+  border-radius: 8px;
+}
+.gap-12 {
+  gap: 12px;
+}
+.max-w-610 {
+  max-width: 613px;
+}
+.p-16-24 {
+  padding: 16px 24px;
+}
+.mt-60 {
+  margin-top: 60px;
+}
